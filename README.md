@@ -2,7 +2,8 @@
 The goal of this project is to develop an AI-powered system for automatically categorizing customer support tickets, aimed at improving the efficiency and effectiveness of support operations. By leveraging machine learning and natural language processing (NLP), the system will automatically classify customer inquiries into predefined categories, reducing the time and effort required to manually categorize tickets. This automation will not only streamline ticket management but also enhance the response time, ensuring that inquiries are routed to the correct department without delay. As a result, customer support teams will be able to resolve issues more quickly, improving overall customer satisfaction.
 
 
-#Overview
+#*Overview* : 
+
 In customer support, managing inquiries efficiently is crucial for timely responses and customer satisfaction. This project introduces an Automated Customer Inquiry Classification System powered by Natural Language Processing (NLP) to automatically categorize support inquiries, making it easier for support teams to prioritize and address customer needs effectively.
 
 
