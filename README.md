@@ -7,24 +7,28 @@ The goal of this project is to develop an AI-powered system for automatically ca
 In customer support, managing inquiries efficiently is crucial for timely responses and customer satisfaction. This project introduces an Automated Customer Inquiry Classification System powered by Natural Language Processing (NLP) to automatically categorize support inquiries, making it easier for support teams to prioritize and address customer needs effectively.
 
 
-#Key Features 🚀
+#**Key Features 🚀** : 
+
 Real-time Inquiry Classification: Instantly classifies support tickets into relevant categories.
 NLP-powered Insight Generation: Leverages TF-IDF and word embeddings for intelligent analysis.
 Dashboards & Insights: Visualize common inquiries, top categories, and trends for better team decisions.
 
 
-#Tech Stack 🛠
+#**Tech Stack 🛠** :
+
 Languages: Python
 Libraries: scikit-learn, pandas, Dash (for visualization), TF-IDF, pyngrok (for Google Colab compatibility)
 Algorithms: Logistic Regression, Random Forest and GridSearchCV.
 
 
-#Project Structure 📂
+#**Project Structure 📂** : 
+
 customer_support_tickets.csv: Contains datasets used for training and testing.
 main.ipynb and dashboard.py: Includes the main code files for preprocessing, model training, and dashboard generation.
 
 
-#Results & Evaluation 📊
+#**Results & Evaluation 📊** : 
+
 The system achieves high accuracy in categorizing support tickets and provides detailed insights into common issues and trends. For more information, refer to the attached documents below.
 
 ![image](https://github.com/user-attachments/assets/aa8c7c2d-cc2b-40ef-b61d-8e19b9531c0f)
